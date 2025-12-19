@@ -20,8 +20,6 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      darkTheme: ThemeData.dark(), // Dark Mode Support
-      themeMode: ThemeMode.system, // Follows system theme (light or dark)
       home: const AuthWrapper(),
     );
   }
