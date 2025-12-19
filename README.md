@@ -5,6 +5,10 @@ This project is built for **machine test / assignment purposes** using a mock ba
 
 ---
 
+## 🌑 Dark Mode Support
+
+- The app supports dark mode! The appearance automatically adapts to match your system-wide light or dark theme settings.
+
 ## 🍔 What does this app do?
 
 - Login using **mobile number + OTP** (mock OTP: `123456`)
